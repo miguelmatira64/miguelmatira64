@@ -1,16 +1,20 @@
-### Hi there 👋
+### About Me:
+```python
+class Student:
 
-<!--
-**miguelmatira64/miguelmatira64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def __init__(self):
+        self.name = "Miguel"
+        self.age = "14"
+        self.role = "Student"
+        self.language_spoken = ["tl-PH", "en_US"]
 
-Here are some ideas to get you started:
+    def say_hi(self):
+        print("Thanks for dropping by, I hope I'll learn more languages in the future...")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+me = Student()
+me.say_hi()
+```
+### Contact:
+- Telegram: https://t.me/miguelmatira64
+- Facebook: https://www.facebook.com/miguel.matira.gelbolingo
