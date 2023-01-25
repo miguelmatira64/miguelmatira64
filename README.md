@@ -17,4 +17,3 @@ me.say_hi()
 ```
 ### Contact:
 - Telegram: https://t.me/miguelmatira64
-- Facebook: https://www.facebook.com/miguel.matira.gelbolingo
