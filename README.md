@@ -4,7 +4,7 @@ class Student:
 
     def __init__(self):
         self.name = "Miguel"
-        self.age = "14"
+        self.age = "17"
         self.role = "Student"
         self.language_spoken = ["tl-PH", "en_US"]
 
